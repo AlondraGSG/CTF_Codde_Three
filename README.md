@@ -1,5 +1,5 @@
 # Hilos
-<p> ... </p>
+<p> los hilos (threads) permiten que un programa realice varias tareas de manera concurrente sin tener que esperar a que una termine para comenzar otra. Cada hilo se encarga de una tarea específica y puede trabajar de forma independiente, lo que ayuda a aprovechar mejor el tiempo y a que el programa funcione de manera más fluida. Por ejemplo, mientras un hilo analiza información, otro puede realizar una operación diferente. Esto es útil para evitar que el programa se quede bloqueado mientras realiza tareas que pueden tardar un poco. </p>
 
 ### ¿como funciona el programa?
 <p> en el programa se realizo un analizador de contraseñas, en el se solicitan las contraseñas, se revisan las caracteristicas (contenido en mayusculas, minusculas, numeros, simbolos y si es muy corta por medio de la difiultad, yaa sea debil, media o fuerte), y se determina si la contraseña es debil, media o fuerte. en el se utilizan los hilos para la concurrencia. </p>
